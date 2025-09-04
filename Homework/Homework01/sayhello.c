@@ -3,5 +3,10 @@
 
 int main ( int argc, char * argv[] ) {
     
-    printf(  "\n\n  Hello, world!\n\n");
+    char input[25];
+    printf( "What is your name: " );
+    scanf( "%s", input );
+    printf( "\n Hello, %s\n", input );
+    exit( 0 );
+    
 }
