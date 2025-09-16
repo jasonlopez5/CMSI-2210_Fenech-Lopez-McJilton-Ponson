@@ -1,0 +1,20 @@
+1. A Computer System is a collection of parts which include hardware, software, some type of data, and finally a user.
+2. Some parts of the computer system are gates and circuits, microcode, the operating system, and assembly code.
+3. In a compiled language the code is translated into machine code before it is executed while as in an interpreted language the code is executed line by line.
+4. Yes C is a compiled language.
+5. C was invented by Dennis Ritchie.
+6. C has been in use for around 53 years.
+7. Yes because a compiler translates the source code into machine code in order for the computer to read it.
+8. Yes an assembler translates assembly code into machine code.
+9. ls
+10. atof() converts a string into its numerical value w3schools.com.
+11. The lowest level 0 is the digital logic layer that consists of circuits and gates which allows the machine to process simple True and False problems and returns a 1 or a 0, level 1 is the Control layer which consisted of microcode which converts machine code in order for it to be processed by the CPU through the circuits and gates.
+12. Fetch, Decode, Execute.
+13. The ALU is what executes what is decoded and this can do anything from + and - to and/or operations.
+14. extremely fast, small memory units built directly into the CPU that hold data and instructions for immediate use during processing https://www.totalphase.com. 
+15. Application software is made to be used by people meanwhile System software is written to be executed by computers.
+16. No cmp, rdi, and rsi is assembly language.
+17. There are 3 buses.
+18. 151
+19. 255
+20. 65535
